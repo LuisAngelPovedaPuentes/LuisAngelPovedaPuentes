@@ -4,7 +4,9 @@ Estudiante de **Tecnología en Desarrollo de Sistemas de Información y Redes** 
 ## 📊 Mis Estadísticas de Desarrollo
 Aquí puedes ver los lenguajes en los que más he trabajado:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html)](https://github.com/LuisAngelPovedaPuentes/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html" />
+</p>
 
 ---
 
