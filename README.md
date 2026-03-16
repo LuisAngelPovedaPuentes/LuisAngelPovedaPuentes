@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Luis Angel Poveda 🚀
+Estudiante de Ingeniería de Software | Técnico Profesional en Sistemas y Redes
 
-<!--
-**LuisAngelPovedaPuentes/LuisAngelPovedaPuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Mis Estadísticas de Desarrollo
+Aquí puedes ver los lenguajes en los que más he trabajado (he ocultado HTML y CSS para que resalte mi lógica en Java y PHP):
 
-Here are some ideas to get you started:
+![Mis lenguajes top](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+* **Backend:** Java (Spring Boot), PHP (Laravel)
+* **Frontend:** React, Angular
+* **Bases de Datos:** PostgreSQL, MySQL
+* **Otras herramientas:** Git, GitHub, Postman, IntelliJ IDEA, VS Code
+
+---
+*¡Gracias por visitar mi perfil! Estoy enfocado en crear soluciones de software escalables y seguras.*
