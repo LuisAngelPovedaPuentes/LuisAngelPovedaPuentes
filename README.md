@@ -1,20 +1,42 @@
-# ¡Hola! Soy Luis Angel Poveda 🚀
-Estudiante de **Tecnología en Desarrollo de Sistemas de Información y Redes** (En curso) | Técnico Profesional en Sistemas y Redes
+# ¡Hola! Soy Luis Angel Poveda 👋
 
-## 📊 Mis Estadísticas de Desarrollo
-Aquí puedes ver los lenguajes en los que más he trabajado (Filtrado para resaltar lógica de programación):
+### 👨‍💻 Estudiante de Ingeniería de Software en la Fundación Escuela Tecnológica (FET)
+*Actualmente cursando 5.º semestre y avanzando en mi formación como Tecnólogo en Desarrollo de Sistemas de Información y Redes.*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html" alt="Estadísticas de Luis Angel Poveda" />
+---
+
+## 🚀 Sobre mí
+Soy un desarrollador en formación apasionado por la **Ciberseguridad** y el **Desarrollo Full-Stack**. Me enfoco en construir soluciones robustas y escalables, aplicando arquitecturas modernas como la **Arquitectura Hexagonal**.
+
+* 🌍 Ubicación: Neiva, Huila, Colombia.
+* 🎓 Institución: **Fundación Escuela Tecnológica (FET)**.
+* 🛡️ Intereses: Pentesting, Redes de datos y Desarrollo con Spring Boot/Laravel.
+
+---
+
+## 📊 Análisis de GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisAngelPovedaPuentes&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html" />
 </p>
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-* **Backend:** Java (Spring Boot), PHP (Laravel)
-* **Frontend:** React, Angular
-* **Bases de Datos:** PostgreSQL, MySQL
-* **Otras herramientas:** Git, GitHub, Postman, IntelliJ IDEA, VS Code
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,angular,postgres,mysql,git,github,postman,idea,vscode,linux" />
+  </a>
+</p>
 
 ---
-*¡Gracias por visitar mi perfil! Estoy enfocado en crear soluciones de software escalables y seguras.*
+
+## 🤝 Redes y Contacto
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+*“En constante aprendizaje para transformar ideas en productos funcionales y seguros.”*
