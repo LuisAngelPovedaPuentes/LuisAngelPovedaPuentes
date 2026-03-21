@@ -14,18 +14,10 @@ Soy un desarrollador en formación apasionado por la lógica de programación y 
 
 ---
 
-## 📊 Análisis de Actividad (Estadísticas)
-
+## 📊 Análisis de Actividad
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html" alt="Estadísticas de Lenguajes" />
 </p>
-
-### 📈 Resumen de Lenguajes (Manual)
-*Si la gráfica de arriba no carga, aquí tienes mi actividad real:*
-
-* **Java:** ████████████░░░░░░░░ 60%
-* **PHP / Laravel:** ██████░░░░░░░░░░░░░░ 30%
-* **JavaScript / Otros:** ██░░░░░░░░░░░░░░░░░░ 10%
 
 ---
 
