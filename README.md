@@ -15,9 +15,10 @@ Soy un desarrollador en formación apasionado por la lógica de programación y 
 ---
 
 ## 📊 Análisis de Actividad
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html" alt="Estadísticas de Lenguajes" />
-</p>
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=LuisAngelPovedaPuentes&show_icons=true&theme=tokyonight)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=tokyonight)
 
 ---
 
