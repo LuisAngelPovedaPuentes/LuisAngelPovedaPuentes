@@ -33,7 +33,7 @@ Soy un desarrollador en formación apasionado por la **Ciberseguridad** y el **D
 
 ## 🤝 Redes y Contacto
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-angel-poveda-puentes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
