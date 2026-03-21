@@ -1,32 +1,30 @@
 # ¡Hola! Soy Luis Angel Poveda 👋
 
 ### 👨‍💻 Estudiante de Ingeniería de Software en la Fundación Escuela Tecnológica (FET)
-*Actualmente cursando 5.º semestre y avanzando en mi formación como Tecnólogo en Desarrollo de Sistemas de Información y Redes.*
+*Actualmente en 5.º semestre | Formándome como Tecnólogo en Desarrollo de Sistemas de Información y Redes.*
 
 ---
 
 ## 🚀 Sobre mí
-Soy un desarrollador en formación apasionado por la **Ciberseguridad** y el **Desarrollo Full-Stack**. Me enfoco en construir soluciones robustas y escalables, aplicando arquitecturas modernas como la **Arquitectura Hexagonal**.
+Soy un desarrollador en formación apasionado por la lógica de programación y la seguridad. Mi objetivo es crear software eficiente y seguro utilizando tecnologías modernas.
 
-* 🌍 Ubicación: Neiva, Huila, Colombia.
+* 🌍 Ubicación: Rivera, Huila, Colombia.
 * 🎓 Institución: **Fundación Escuela Tecnológica (FET)**.
-* 🛡️ Intereses: Pentesting, Redes de datos y Desarrollo con Spring Boot/Laravel.
+* 🛡️ Intereses: Java, Spring Boot, Seguridad Informática y Redes.
 
 ---
 
 ## 📊 Análisis de GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisAngelPovedaPuentes&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisAngelPovedaPuentes&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html" width="45%" />
 </p>
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,angular,postgres,mysql,git,github,postman,idea,vscode,linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,angular,postgres,mysql,git,github,postman,idea,vscode,linux" />
 </p>
 
 ---
