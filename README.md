@@ -1,18 +1,31 @@
 # ¡Hola! Soy Luis Angel Poveda 👋
 
 ### 👨‍💻 Estudiante de Ingeniería de Software en la Fundación Escuela Tecnológica (FET)
-*5.º semestre | Tecnólogo en Desarrollo de Sistemas de Información y Redes (En curso)*
+*Actualmente en 5.º semestre | Formándome como Tecnólogo en Desarrollo de Sistemas de Información y Redes.*
 
 ---
 
-## 📊 Mi Actividad de Desarrollo
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html&border_radius=10" alt="Estadísticas de Lenguajes" />
-</p>
+## 🚀 Sobre mí
+Soy un desarrollador en formación apasionado por la lógica de programación y la seguridad. Mi objetivo es crear software eficiente y seguro utilizando tecnologías modernas.
+
+* 🌍 Ubicación: Rivera, Huila, Colombia.
+* 🎓 Institución: **Fundación Escuela Tecnológica (FET)**.
+* 🛡️ **Intereses:** Java, Spring Boot, Seguridad Informática, Redes y Encriptación.
+
+---
+
+## 📊 Análisis de Actividad (Estadísticas)
 
 <p align="center">
-  <img src="https://github-readme-stats-two-no-bg.vercel.app/api?username=LuisAngelPovedaPuentes&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=vision-glow&hide=css,html" alt="Estadísticas de Lenguajes" />
 </p>
+
+### 📈 Resumen de Lenguajes (Manual)
+*Si la gráfica de arriba no carga, aquí tienes mi actividad real:*
+
+* **Java:** ████████████░░░░░░░░ 60%
+* **PHP / Laravel:** ██████░░░░░░░░░░░░░░ 30%
+* **JavaScript / Otros:** ██░░░░░░░░░░░░░░░░░░ 10%
 
 ---
 
@@ -31,4 +44,4 @@
 </p>
 
 ---
-*“Transformando ideas en soluciones tecnológicas seguras.”*
+*“En constante aprendizaje para transformar ideas en productos funcionales y seguros.”*
