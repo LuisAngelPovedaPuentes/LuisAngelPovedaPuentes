@@ -78,6 +78,7 @@ Aplicación web completa para la gestión de productos y proveedores en una ferr
   </a>
 
   <!-- EMAIL UNIVERSIDAD -->
+  
   <a href="mailto:luis_povedapu@fet.edu.co">
     <img src="https://img.shields.io/badge/Gmail_Universidad-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
