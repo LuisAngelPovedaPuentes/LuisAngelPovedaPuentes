@@ -1,24 +1,23 @@
 # ¡Hola! Soy Luis Angel Poveda 👋
 
-### 👨‍💻 Estudiante de Ingeniería de Software en la Fundación Escuela Tecnológica (FET)
-*Actualmente en 5.º semestre | Formándome como Tecnólogo en Desarrollo de Sistemas de Información y Redes.*
+### 👨‍💻 Estudiante de Ingeniería de Software (5.º semestre)
 
 ---
 
 ## 🚀 Sobre mí
-Soy un desarrollador en formación apasionado por la lógica de programación y la seguridad. Mi objetivo es crear software eficiente y seguro utilizando tecnologías modernas.
+Soy estudiante de ingeniería de software enfocado en el desarrollo backend con Java y en la construcción de aplicaciones web completas. Me interesa crear soluciones funcionales, bien estructuradas y seguras.
 
-* 🌍 Ubicación: Rivera, Huila, Colombia.
-* 🎓 Institución: **Fundación Escuela Tecnológica (FET)**.
-* 🛡️ **Intereses:** Java, Spring Boot, Seguridad Informática, Redes y Encriptación.
+* 🌍 Ubicación: Rivera, Huila, Colombia  
+* 🎓 Formación: Fundación Escuela Tecnológica (FET)  
+* 🛡️ Intereses: Java, Spring Boot, Seguridad Informática y Desarrollo Web  
 
 ---
 
 ## 📊 Análisis de Actividad
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=LuisAngelPovedaPuentes&show_icons=true&theme=tokyonight)
+![Estadísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=LuisAngelPovedaPuentes&show_icons=true&theme=tokyonight)
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=tokyonight)
+![Lenguajes](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuisAngelPovedaPuentes&layout=compact&theme=tokyonight)
 
 ---
 
@@ -29,62 +28,57 @@ Soy un desarrollador en formación apasionado por la lógica de programación y 
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyecto Destacado
 
 ### 🛠️ Sistema de Gestión para Ferretería
 
-Aplicación web completa para la gestión de productos y proveedores en una ferretería.
+Aplicación web fullstack orientada a la gestión de productos y proveedores.
 
 🔹 **Backend**
-- Desarrollado con **Java + Spring Boot**
-- Arquitectura limpia (hexagonal)
-- API REST
-- Base de datos **MySQL**
-- Gestión de usuarios, productos y proveedores
+- Java + Spring Boot  
+- Arquitectura hexagonal  
+- API REST  
+- MySQL  
 
 🔹 **Frontend**
-- Desarrollado con **React, HTML, CSS y JavaScript**
-- Interfaz moderna e intuitiva
-- Consumo de API REST
+- React + JavaScript  
+- Consumo de API REST  
+- Interfaz de gestión  
 
 🔹 **Funcionalidades**
-- CRUD de productos
-- CRUD de proveedores
-- Sistema de login
-- Gestión de usuarios
+- CRUD de productos y proveedores  
+- Sistema de autenticación  
+- Gestión de usuarios  
 
-🔹 **Repositorio Backend**  
-[![Backend](https://img.shields.io/badge/Ver_Backend-000000?style=for-the-badge&logo=github)](https://github.com/LuisAngelPovedaPuentes/ferreteria-backend)
+🔹 **Repositorios**
 
-🔹 **Repositorio Frontend**  
-[![Frontend](https://img.shields.io/badge/Ver_Frontend-000000?style=for-the-badge&logo=github)](https://github.com/LuisAngelPovedaPuentes/ferreteria-frontend)
+[![Backend](https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=github)](https://github.com/LuisAngelPovedaPuentes/ferreteria-backend)
+
+[![Frontend](https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=github)](https://github.com/LuisAngelPovedaPuentes/ferreteria-frontend)
 
 ---
 
-## 🤝 Redes y Contacto
+## 🤝 Contacto
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/luis-angel-poveda-puentes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/luis-angel-poveda-puentes/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://github.com/LuisAngelPovedaPuentes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/LuisAngelPovedaPuentes" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <!-- EMAIL PERSONAL -->
-  <a href="mailto:Luisangelpovedapuentes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail_Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:TU_CORREO_PERSONAL@gmail.com">
+  <img src="https://img.shields.io/badge/Correo_Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <!-- EMAIL UNIVERSIDAD -->
-  
-  <a href="mailto:luis_povedapu@fet.edu.co">
-    <img src="https://img.shields.io/badge/Gmail_Universidad-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:TU_CORREO_UNIVERSIDAD@correo.edu.co">
+  <img src="https://img.shields.io/badge/Correo_Universidad-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </p>
 
 ---
 
-*“En constante aprendizaje para transformar ideas en productos funcionales y seguros.”*
+💡 *En constante aprendizaje, enfocado en mejorar mis habilidades como desarrollador backend.*
